@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSers",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

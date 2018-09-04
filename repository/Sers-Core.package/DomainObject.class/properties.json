@@ -1,0 +1,14 @@
+{
+	"category" : "Sers-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DomainObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
