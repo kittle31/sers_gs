@@ -1,0 +1,24 @@
+{
+	"category" : "BaselineOfSers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"firstName",
+		"lastName",
+		"title",
+		"startDate",
+		"schedule",
+		"notes",
+		"userid",
+		"password",
+		"roles",
+		"active",
+		"availSchedule" ],
+	"name" : "Staff",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

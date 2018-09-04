@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"canBeRoot" : "JonP 09/03/2018 18:06",
+		"initialize" : "JonP 09/03/2018 18:04",
+		"writeJsonVariables:for:on:" : "JonP 09/03/2018 18:05" },
+	"instance" : {
+		"authTokenName" : "JonP 09/03/2018 18:09",
+		"checkToken:" : "JonP 09/03/2018 18:09",
+		"context" : "JonP 09/03/2018 18:07",
+		"context:" : "JonP 09/03/2018 18:07",
+		"login" : "JonP 09/03/2018 18:12",
+		"renderContentOn:" : "JonP 09/03/2018 18:08",
+		"req" : "JonP 09/03/2018 18:07",
+		"req:" : "JonP 09/03/2018 18:07" } }

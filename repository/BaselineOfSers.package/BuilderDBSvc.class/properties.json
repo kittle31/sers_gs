@@ -1,0 +1,15 @@
+{
+	"category" : "BaselineOfSers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"req",
+		"context" ],
+	"name" : "BuilderDBSvc",
+	"pools" : [
+		 ],
+	"super" : "WAPainter",
+	"type" : "normal" }

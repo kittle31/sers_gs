@@ -1,0 +1,14 @@
+{
+	"category" : "Sers-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BuilderJSONDocument",
+	"pools" : [
+		 ],
+	"super" : "WADocument",
+	"type" : "normal" }
