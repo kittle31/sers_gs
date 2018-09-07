@@ -6,7 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"creationDate",
+		"createdBy",
+		"changeDate",
+		"changedBy" ],
 	"name" : "DomainObject",
 	"pools" : [
 		 ],

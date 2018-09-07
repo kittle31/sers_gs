@@ -1,0 +1,3 @@
+testing
+isResident
+  ^ true

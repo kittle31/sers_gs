@@ -1,0 +1,25 @@
+{
+	"category" : "BaselineOfSers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Residents" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"birthdate",
+		"address",
+		"ssn",
+		"homePhone",
+		"cellPhone",
+		"messagePhone",
+		"exitDate",
+		"allergy",
+		"emContactName",
+		"emContactPhone",
+		"referredBy",
+		"referredPhone" ],
+	"name" : "Resident",
+	"pools" : [
+		 ],
+	"super" : "Staff",
+	"type" : "normal" }

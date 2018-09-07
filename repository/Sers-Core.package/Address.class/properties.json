@@ -1,0 +1,18 @@
+{
+	"category" : "Sers-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"addressLine1",
+		"apartmentNumber",
+		"city",
+		"st",
+		"zipCode" ],
+	"name" : "Address",
+	"pools" : [
+		 ],
+	"super" : "DomainObject",
+	"type" : "normal" }

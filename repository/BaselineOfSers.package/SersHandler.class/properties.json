@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SersHandler",
+	"pools" : [
+		 ],
+	"super" : "WARestfulHandler",
+	"type" : "normal" }

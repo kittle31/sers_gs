@@ -1,0 +1,17 @@
+{
+	"category" : "Sers-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"areaCode",
+		"prefix",
+		"suffix",
+		"extension" ],
+	"name" : "PhoneNumber",
+	"pools" : [
+		 ],
+	"super" : "DomainObject",
+	"type" : "normal" }

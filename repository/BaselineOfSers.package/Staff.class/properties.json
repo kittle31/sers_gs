@@ -3,7 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"People" ],
 	"commentStamp" : "",
 	"instvars" : [
 		"firstName",
@@ -20,5 +20,5 @@
 	"name" : "Staff",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "DomainObject",
 	"type" : "normal" }
