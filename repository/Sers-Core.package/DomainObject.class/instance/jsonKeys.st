@@ -1,3 +1,4 @@
 json
 jsonKeys
-  ^ OrderedCollection with: #'createdBy' with: #'changedBy'
+	self jsonMode isNil ifTrue: [^self jsonKeysDefault].
+	^self jsonMode.

@@ -2,6 +2,7 @@ initialize-release
 initialize
   super initialize.
   active := true.
+  startDate := Date today.
   address := Address new.
   homePhone := PhoneNumber new.
   cellPhone := PhoneNumber new.

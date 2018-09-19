@@ -1,4 +1,4 @@
 as yet unclassified
 initialize
-  People isNil
+  Residents isNil
     ifTrue: [ Residents := OrderedCollection new ]

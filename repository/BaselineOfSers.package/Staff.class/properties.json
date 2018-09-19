@@ -3,6 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
+		"DefaultUser",
 		"People" ],
 	"commentStamp" : "",
 	"instvars" : [
@@ -10,6 +11,7 @@
 		"lastName",
 		"title",
 		"startDate",
+		"exitDate",
 		"schedule",
 		"notes",
 		"userid",

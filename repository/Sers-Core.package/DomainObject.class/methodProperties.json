@@ -2,7 +2,6 @@
 	"class" : {
 		"objects" : "JonP 09/03/2018 21:26" },
 	"instance" : {
-		"asJson" : "JonP 09/06/2018 21:45",
 		"changeDate" : "JonP 09/06/2018 22:13",
 		"changeDate:" : "JonP 09/06/2018 22:13",
 		"changedBy" : "JonP 09/06/2018 22:13",
@@ -11,5 +10,13 @@
 		"createdBy:" : "JonP 09/06/2018 22:13",
 		"creationDate" : "JonP 09/06/2018 22:13",
 		"creationDate:" : "JonP 09/06/2018 22:13",
-		"initialize" : "JonP 09/03/2018 20:39",
-		"jsonKeys" : "JonP 09/06/2018 21:58" } }
+		"initialize" : "JonP 09/09/2018 14:51",
+		"jsonKeys" : "JonP 09/15/2018 14:04",
+		"jsonKeysDefault" : "JonP 09/16/2018 14:22",
+		"jsonMode" : "JonP 09/15/2018 13:56",
+		"jsonMode:" : "JonP 09/15/2018 13:56",
+		"oop" : "JonP 09/15/2018 00:50",
+		"printJsonOn:" : "JonP 09/15/2018 15:54",
+		"update:from:" : "JonP 09/16/2018 13:51",
+		"updateDate:from:" : "JonP 09/16/2018 15:07",
+		"updateFromJson:" : "JonP 09/16/2018 14:25" } }

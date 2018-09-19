@@ -1,12 +1,13 @@
 {
 	"class" : {
-		"initialize" : "JonP 09/03/2018 20:50",
+		"initialize" : "JonP 09/09/2018 15:16",
 		"objects" : "JonP 09/03/2018 21:27" },
 	"instance" : {
 		"address" : "JonP 09/03/2018 20:33",
 		"address:" : "JonP 09/03/2018 20:33",
 		"allergy" : "JonP 09/03/2018 20:33",
 		"allergy:" : "JonP 09/03/2018 20:33",
+		"asLightweight" : "JonP 09/15/2018 00:54",
 		"birthdate" : "JonP 09/03/2018 20:33",
 		"birthdate:" : "JonP 09/03/2018 20:33",
 		"cellPhone" : "JonP 09/03/2018 20:33",
@@ -15,12 +16,11 @@
 		"emContactName:" : "JonP 09/03/2018 20:33",
 		"emContactPhone" : "JonP 09/03/2018 20:33",
 		"emContactPhone:" : "JonP 09/03/2018 20:33",
-		"exitDate" : "JonP 09/03/2018 20:33",
-		"exitDate:" : "JonP 09/03/2018 20:33",
 		"homePhone" : "JonP 09/03/2018 20:33",
 		"homePhone:" : "JonP 09/03/2018 20:33",
-		"initialize" : "JonP 09/03/2018 20:28",
-		"jsonKeys" : "JonP 09/06/2018 22:10",
+		"initialize" : "JonP 09/14/2018 15:53",
+		"jsonKeysDefault" : "JonP 09/15/2018 14:09",
+		"lightweightKeys" : "JonP 09/15/2018 00:53",
 		"messagePhone" : "JonP 09/03/2018 20:33",
 		"messagePhone:" : "JonP 09/03/2018 20:33",
 		"referredBy" : "JonP 09/03/2018 20:33",
@@ -28,4 +28,5 @@
 		"referredPhone" : "JonP 09/03/2018 20:33",
 		"referredPhone:" : "JonP 09/03/2018 20:33",
 		"ssn" : "JonP 09/03/2018 20:33",
-		"ssn:" : "JonP 09/03/2018 20:33" } }
+		"ssn:" : "JonP 09/03/2018 20:33",
+		"updateFromJson:" : "JonP 09/16/2018 13:50" } }

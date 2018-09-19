@@ -9,7 +9,8 @@
 		"creationDate",
 		"createdBy",
 		"changeDate",
-		"changedBy" ],
+		"changedBy",
+		"jsonMode" ],
 	"name" : "DomainObject",
 	"pools" : [
 		 ],

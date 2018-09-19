@@ -2,5 +2,11 @@
 	"class" : {
 		"initialize" : "JonP 09/06/2018 21:02" },
 	"instance" : {
-		"list" : "JonP 09/06/2018 21:11",
-		"login" : "JonP 09/06/2018 21:47" } }
+		"getResident:" : "JonP 09/15/2018 15:47",
+		"login" : "JonP 09/15/2018 15:26",
+		"residentDispatch" : "JonP 09/16/2018 13:31",
+		"residentList" : "JonP 09/15/2018 15:38",
+		"residentSave:" : "JonP 09/16/2018 14:09",
+		"respondNotOk:" : "JonP 09/15/2018 15:42",
+		"respondOk:" : "JonP 09/15/2018 15:39",
+		"staffList" : "JonP 09/15/2018 14:55" } }

@@ -1,0 +1,3 @@
+accessing
+oop
+	^self asOop
