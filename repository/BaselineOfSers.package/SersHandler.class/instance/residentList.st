@@ -1,3 +1,4 @@
 residents
 residentList
-	self respondOk: (Resident objects collect: [ : item | item asLightweight])
+  System abortTransaction.
+  self respondOk: (Resident objects collect: [ :item | item asLightweight ])

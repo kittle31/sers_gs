@@ -1,0 +1,4 @@
+accessing
+zipCode
+
+   ^zipCode

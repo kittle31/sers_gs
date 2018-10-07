@@ -3,10 +3,13 @@
 		"initialize" : "JonP 09/06/2018 21:02" },
 	"instance" : {
 		"getResident:" : "JonP 09/15/2018 15:47",
+		"handleFiltered:" : "JonP 09/18/2018 23:15",
 		"login" : "JonP 09/15/2018 15:26",
-		"residentDispatch" : "JonP 09/16/2018 13:31",
-		"residentList" : "JonP 09/15/2018 15:38",
+		"residentDispatch" : "JonP 10/03/2018 00:01",
+		"residentList" : "JonP 09/23/2018 16:59",
 		"residentSave:" : "JonP 09/16/2018 14:09",
+		"residentSavenew:" : "JonP 10/03/2018 00:00",
 		"respondNotOk:" : "JonP 09/15/2018 15:42",
 		"respondOk:" : "JonP 09/15/2018 15:39",
-		"staffList" : "JonP 09/15/2018 14:55" } }
+		"staffDispatch" : "JonP 09/18/2018 23:21",
+		"staffList" : "JonP 09/18/2018 23:21" } }

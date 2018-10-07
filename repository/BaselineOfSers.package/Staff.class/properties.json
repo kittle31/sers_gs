@@ -17,8 +17,7 @@
 		"userid",
 		"password",
 		"roles",
-		"active",
-		"availSchedule" ],
+		"active" ],
 	"name" : "Staff",
 	"pools" : [
 		 ],

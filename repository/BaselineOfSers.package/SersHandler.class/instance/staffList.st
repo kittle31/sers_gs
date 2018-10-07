@@ -1,9 +1,3 @@
-as yet unclassified
+staff
 staffList
-  <get>
-  <path: '/staff/list'>
-  self requestContext
-    respond: [ :response | 
-      response contentType: 'application/json'.
- 		(Staff objects collect: [ : item | item asLightweight]) printJsonOn: response.
-	]
+	self respondOk: (Staff objects collect: [ : item | item asLightweight])
