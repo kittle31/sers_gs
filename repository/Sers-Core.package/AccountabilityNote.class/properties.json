@@ -1,0 +1,14 @@
+{
+	"category" : "Sers-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AccountabilityNotes" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"notes" ],
+	"name" : "AccountabilityNote",
+	"pools" : [
+		 ],
+	"super" : "DomainObject",
+	"type" : "normal" }
